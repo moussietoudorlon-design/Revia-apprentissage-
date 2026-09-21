@@ -1,0 +1,6 @@
+{
+  "name": "REVIA AI",
+  "description": "Apprends mieux. Révise plus vite. Application de révision scolaire avec IA : résumés, quiz interactifs, fiches, flashcards, audio synthétisé et tuteur personnalisé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
